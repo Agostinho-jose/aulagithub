@@ -34,7 +34,7 @@ Observaçoes: -No uso de var pode-se declarar varias variáveis com o mesmo
 nome que não dá erro(var nome; var nome).
 
 -No uso de let não há como declarar tais variáveis( let nome; let nome).
-*/
+
 
 // --> 3) Uso do const:
 
@@ -46,4 +46,7 @@ return n + n;
 
 console.log('Resustado = ', getValue(20));
 
-typeof n;
+typeof n;*/
+
+let nome = "Agostinho-jose"
+console.log('Meu nome no github: ', nome);
